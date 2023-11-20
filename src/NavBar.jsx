@@ -16,7 +16,7 @@ export default function NavBar(){
             </li>
         </ul>
     </nav>
-    <div class="w-3/12 flex justify-end hover:text-white duration-200 ease-in">
+    <div class=" flex justify-end duration-200 ease-in border-b-2 border-violet-500 border-opacity-0 hover:border-opacity-100">
         <a href="">
         <i class="fa-solid fa-user"></i>
         </a>
