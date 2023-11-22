@@ -1,7 +1,7 @@
 
 export default function Home(){
 return(
-<div className="flex h-screen bg-[url('/landing.jpg')] bg-cover bg-center">
+<div className="flex h-screen bg-[url('/landing.jpg')] bg-cover bg-center font-raleway">
     <div className="w-2/3 h-screen ">
         
     </div>
